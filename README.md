@@ -36,6 +36,13 @@ https://github.com/sujoybiswas115/GIS-Flood-Risk-Assessment-Southwest-Bangladesh
 
 A Python-based analysis of long-term coastal water level variability and extreme events.
 
+Key components:
+- Long-term tidal water level analysis
+- Annual maximum variability assessment
+- Trend and extreme event analysis
+- Seasonal pattern investigation
+- Statistical analysis and visualization
+
 Tools:
 - Python
 - Pandas
