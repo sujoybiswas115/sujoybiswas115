@@ -16,6 +16,13 @@ I am a Civil Engineering graduate interested in GIS, Remote Sensing, Water Resou
 
 A GIS-based flood susceptibility mapping framework using multi-criteria weighted overlay analysis.
 
+Key components:
+- Elevation analysis
+- Slope analysis
+- River proximity assessment
+- Rainfall analysis
+- Land Use/Land Cover assessment
+
 Tools:
 - QGIS
 - GDAL
@@ -24,7 +31,6 @@ Tools:
 
 Repository:
 https://github.com/sujoybiswas115/GIS-Flood-Risk-Assessment-Southwest-Bangladesh
-
 
 ### Python-Based Coastal Water Level Variability Analysis
 
@@ -35,6 +41,10 @@ Tools:
 - Pandas
 - NumPy
 - Matplotlib
+
+Repository:
+https://github.com/sujoybiswas115/coastal-water-level-variability-analysis
+
 
 
 ## Technical Skills
